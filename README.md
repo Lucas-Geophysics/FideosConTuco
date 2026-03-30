@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FideosConTuco
-- Geophysics student
+- 👋 Hi, I’m Lucas
+- B.Sc. in Geophysics
 
 
 <!---
